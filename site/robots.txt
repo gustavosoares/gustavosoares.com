@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /blog-test/
-Disallow: /cgi-bin/
-Sitemap: http://gustavosoares.com/blog/sitemap.xml
